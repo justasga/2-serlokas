@@ -1,5 +1,6 @@
-# Šerlokas 404 puslapis
+# ~~Šerlokas 404 puslapis~~
 
-## Author
+
+## Author 
 
 [Justas G] (https://github.com/justasga)
